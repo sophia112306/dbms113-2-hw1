@@ -8,7 +8,7 @@ Every commands you need are all in our example.
 
 ## Task 1: Clone the Repo
 
-Clone the remote repo
+**Fork** the remote repo
 
 [https://github.com/i-am-harveyt/dbms113-2-hw1.git](https://github.com/i-am-harveyt/dbms113-2-hw1.git)
 
